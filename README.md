@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Taseen007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
+
+I'm a Software Engineer specializing in Frontend Development.
+
+**What I Do:**
+- 🎨 Build responsive and dynamic user interfaces.
+- 🔧 **Refactor and improve** existing codebases for better performance and maintainability.
+- 💡 Work across the stack with versatility in multiple languages.
+- 🗃️ Leverage a strong foundation in database design and querying.
+
+**Tech Stack:** JavaScript (React, Vue), TypeScript, Python, SQL, MongoDB, etc.
 
 <!---
 Taseen007/Taseen007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
