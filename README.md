@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer specializing in Frontend Development.
+I'm a Software Engineer specializing in Frontend Development and System analysis.
 
 **What I Do:**
 - 🎨 Build responsive and dynamic user interfaces.
